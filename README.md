@@ -1,15 +1,31 @@
-Gemini ha dicho
-Proyecto: CodeVerse - Plataforma de Innovación Creativa y Desarrollo Lógico
-Este proyecto propone la creación de un ecosistema digital diseñado para transformar la percepción de la programación en las nuevas generaciones. El objetivo central es desplazar la visión tradicional del desarrollo de software como una tarea puramente técnica, posicionándolo como una herramienta de expresión creativa, resolución de retos y construcción de mundos virtuales.
+# TecnoAbastos: Introducción a la Programación con Scratch
 
-Ejes Estratégicos del Proyecto
-Gamificación del Aprendizaje: Implementa una narrativa de progresión basada en mecánicas de juego, donde la adquisición de habilidades en lenguajes como Python o JavaScript permite desbloquear capacidades dentro de entornos simulados y competitivos.
+Este repositorio contiene un proyecto pedagógico desarrollado en Scratch diseñado para introducir a estudiantes en conceptos básicos de lógica de programación, gestión de eventos y control de variables. 
 
-Desarrollo Orientado a Proyectos: Prioriza la creación inmediata de productos tangibles (videojuegos, aplicaciones móviles o automatización de redes sociales), permitiendo que el usuario experimente la gratificación instantánea de ver sus ideas materializadas mediante código.
+## Propósito Educativo
+El objetivo de TecnoAbastos es desplazar la visión de la programación como una tarea puramente técnica, posicionándola como una herramienta de expresión creativa y resolución de retos mediante la construcción de mundos virtuales funcionales.
 
-Entorno Colaborativo y Social: Establece una infraestructura de red donde los programadores noveles pueden compartir fragmentos de código, colaborar en repositorios conjuntos y participar en "Hackathons" virtuales, fomentando el sentido de pertenencia a una comunidad tecnológica global.
+## Aprendizajes Clave
+Al explorar este proyecto, los estudiantes podrán comprender:
+* **Eventos:** Inicio y fin del flujo de programa mediante la bandera verde y el botón de stop.
+* **Control de Movimiento:** Programación de ejes (arriba, abajo, izquierda, derecha) para interactuar con el entorno.
+* **Detección de Colisiones:** Implementación de lógica de contacto entre objetos (Taxi vs Truck/Edificios).
+* **Gestión de Datos (Variables):** Uso del marcador **Score** para el almacenamiento y actualización de datos en tiempo real.
 
-Interfaz de Alta Fidelidad: Utiliza herramientas modernas como FastAPI y frameworks de frontend reactivos para ofrecer una experiencia de usuario fluida, visualmente atractiva y alineada con los estándares estéticos de la generación actual.
+## Cómo Utilizar este Recurso
+1. Acceder a la plataforma oficial de [MIT Scratch](https://scratch.mit.edu/).
+2. Cargar el archivo `.sb3` incluido en este repositorio.
+3. Observar el código de los Sprites (Taxi, Truck, Shop, House) para analizar la estructura de los bloques.
+4. Ejecutar la simulación con la **Bandera Verde**.
+
+## Dinámica de la Simulación
+* **Navegación:** Control del vehículo principal para explorar la infraestructura de la ciudad.
+* **Interacción:** El sistema detecta la llegada a puntos clave (SHOP/HOUSE), activando funciones de entrega.
+* **Retos Lógicos:** Evitar obstáculos móviles (TRUCK) para mantener la integridad del flujo de trabajo.
+* **Recompensa Instantánea:** El incremento de la variable **Score** permite al usuario experimentar la gratificación de ver sus ideas materializadas mediante código.
+
+---
+Imagenes de el respectivo Funcionamiento:
 
 <img width="590" height="434" alt="image" src="https://github.com/user-attachments/assets/241a27b4-61e9-49d0-b0d5-10e59d0d35ae" />
 

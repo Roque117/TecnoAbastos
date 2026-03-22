@@ -1,5 +1,10 @@
 # TecnoAbastos: Introducción a la Programación con Scratch
 
+![Plataforma](https://img.shields.io/badge/Plataforma-MIT_Scratch-orange)
+![Ambito](https://img.shields.io/badge/Ambito-Educativo-blue)
+![Estado](https://img.shields.io/badge/Estado-Finalizado-green)
+![Institucion](https://img.shields.io/badge/Institucion-UPQ-red)
+
 Este repositorio contiene un proyecto pedagógico desarrollado en Scratch diseñado para introducir a estudiantes en conceptos básicos de lógica de programación, gestión de eventos y control de variables. 
 
 ## Propósito Educativo
